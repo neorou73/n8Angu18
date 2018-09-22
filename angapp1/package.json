@@ -1,0 +1,19 @@
+{
+  "name": "angapp1",
+  "version": "1.0.0",
+  "description": "a test Angular App",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neorou73/n8Angu18.git"
+  },
+  "author": "Kris Poedjosoedarmo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neorou73/n8Angu18/issues"
+  },
+  "homepage": "https://github.com/neorou73/n8Angu18#readme"
+}
